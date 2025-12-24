@@ -64,7 +64,7 @@ pip install -r requirements.txt
 Streamlit run app.py
 
 🌐 Live Demo
-🚀 Live App: (Will be updated after deployment)
+🚀 Live App: https://credit-card-fraud-detection-using-smote-r23jnpqwqdcawjxke2dyex.streamlit.app/
 
 📌 Technologies Used
 Python
